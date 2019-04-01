@@ -14,7 +14,7 @@
      parameter? How accurate is the estimated value of ? I tried 100,000,000, it was accurate to 4 decimal places.
 
  Research one other use of Monte-Carlo methods. Record it in your exercise
-     submission and be prepared to discuss it in class. I did a dice roll monte carlo method to estimate the probably of the values.
+     submission and be prepared to discuss it in class. I did a dice roll monte carlo method to estimate the probability of the values.
      Seven had the highest probability because there are the most combinations that can result in 7. With decending probabilities on
      either side of 7.
 
